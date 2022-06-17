@@ -1,0 +1,48 @@
+
+.box1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px;
+  }
+
+.nav{
+  border-radius: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.logo{
+  width: 300px;
+  display: flex;
+  justify-content: flex-start;
+  
+ 
+  
+}
+.search{
+  background-color: pink;
+}
+.block1 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.box2{
+
+}
+
+
+.box3 {
+  
+ }
+  
+ .destination{
+  justify-content: space-between;
+  width: 250px;
+  height: 250px;
+  border-radius: 20%;
+  margin: 10px;
+  padding: 20px;
+}
